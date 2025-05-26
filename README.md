@@ -53,10 +53,13 @@
     pip install -r requirements.txt
  ```
 
-3. **Set up your API keys**
-Store the API keys as environment variables
-GROQ_API_KEY=your_groq_api_key
-NEWS_API_KEY=your_newsapi_key
+3. **Set up your API keys**  
+Store the API keys as environment variables:
+
+```env
+   GROQ_API_KEY=your_groq_api_key
+   NEWS_API_KEY=your_newsapi_key
+```
 
 ## Run the App
 ```bash
